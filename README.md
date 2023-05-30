@@ -10,7 +10,6 @@ CMS Blog is a CMS-style blog site that allows developers to publish articles, bl
 - [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## User Story
